@@ -33,7 +33,7 @@
     "versionPublish": "4.4.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/pingin-logo-mini-82x47-1.png",
+    "favicon": "@PROJECT_PATH@/assets/images/pingin-logo-mini-86x77.png",
     "noImageResize": "",
     "google-analytics": ""
   },
